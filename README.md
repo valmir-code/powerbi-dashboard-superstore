@@ -8,7 +8,7 @@ Este repositório contém o projeto de Business Intelligence desenvolvido no **P
 
 ![Preview do Dashboard](dashboard.png)
 
-*(Lembre-se de subir a foto do seu dashboard para o repositório com o nome exacto `dashboard.png`)*
+
 
 ---
 
